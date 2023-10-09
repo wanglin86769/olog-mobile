@@ -2,7 +2,7 @@
 
 A mobile web client that communicates with the Olog Spring Boot web service, it provides functions of user login, reading logs, creating logs and updating logs.
 
-![Alt text](screenshots/architecture.png?raw=true "Title")
+![Alt text](screenshots/architecture.png)
 
 The official websites for Olog are as follows,
 
@@ -44,37 +44,33 @@ The following Node.js versions have been tested,
 
 Available options for logbook, tag and property can be displayed,
 
-<img src="screenshots/logbook_list.jpg" alt="image" width="300" height="auto">
-<img src="screenshots/tag_list.jpg" alt="image" width="300" height="auto">
-<img src="screenshots/property_list.jpg" alt="image" width="300" height="auto">
+|                |                |                |
+| -------------- | -------------- | -------------- |
+| ![Alt text](screenshots/logbook_list.jpg) | ![Alt text](screenshots/tag_list.jpg) | ![Alt text](screenshots/property_list.jpg) |
 
 ## User login
 
-<img src="screenshots/login_input.jpg" alt="image" width="300" height="auto">
-<img src="screenshots/login_success.jpg" alt="image" width="300" height="auto">
-<img src="screenshots/user_menu.jpg" alt="image" width="300" height="auto">
-<img src="screenshots/user_info.jpg" alt="image" width="300" height="auto">
+|                |                |                |                |
+| -------------- | -------------- | -------------- | -------------- |
+| ![Alt text](screenshots/login_input.jpg) | ![Alt text](screenshots/login_success.jpg) | ![Alt text](screenshots/user_menu.jpg) | ![Alt text](screenshots/user_info.jpg) | 
 
 ## Read logs
 
-<img src="screenshots/home.jpg" alt="image" width="300" height="auto">
-<img src="screenshots/logbook.jpg" alt="image" width="300" height="auto">
-<img src="screenshots/log_part1.jpg" alt="image" width="300" height="auto">
-<img src="screenshots/log_part2.jpg" alt="image" width="300" height="auto">
+|                |                |                |                |
+| -------------- | -------------- | -------------- | -------------- |
+| ![Alt text](screenshots/home.jpg) | ![Alt text](screenshots/logbook.jpg) | ![Alt text](screenshots/log_part1.jpg) | ![Alt text](screenshots/log_part2.jpg) | 
 
 ## Create logs
 
-<img src="screenshots/before_create.jpg" alt="image" width="300" height="auto">
-<img src="screenshots/create_part1.jpg" alt="image" width="300" height="auto">
-<img src="screenshots/create_part2.jpg" alt="image" width="300" height="auto">
-<img src="screenshots/after_create.jpg" alt="image" width="300" height="auto">
+|                |                |                |                |
+| -------------- | -------------- | -------------- | -------------- |
+| ![Alt text](screenshots/before_create.jpg) | ![Alt text](screenshots/create_part1.jpg) | ![Alt text](screenshots/create_part2.jpg) | ![Alt text](screenshots/after_create.jpg) | 
 
 ## Update logs
 
-<img src="screenshots/before_update.jpg" alt="image" width="300" height="auto">
-<img src="screenshots/prepare_update.jpg" alt="image" width="300" height="auto">
-<img src="screenshots/update.jpg" alt="image" width="300" height="auto">
-<img src="screenshots/after_update.jpg" alt="image" width="300" height="auto">
+|                |                |                |                |
+| -------------- | -------------- | -------------- | -------------- |
+| ![Alt text](screenshots/before_update.jpg) | ![Alt text](screenshots/prepare_update.jpg) | ![Alt text](screenshots/update.jpg) | ![Alt text](screenshots/after_update.jpg) | 
 
 ## Cookie manangment
 

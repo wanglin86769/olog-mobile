@@ -115,7 +115,16 @@ http://localhost:8080/
 
 2. Install MongoDB.
 
-3. Install and start Elasticsearch.
+3. Install Elasticsearch.
+
+Edit elasticsearch-8.7.1\config\elasticsearch.yml,
+
+```
+xpack.security.enabled: false
+```
+
+Start Elasticsearch.
+
 ```
 cd elasticsearch-8.7.1
 bin\elasticsearch.bat
